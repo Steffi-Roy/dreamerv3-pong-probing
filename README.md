@@ -1,6 +1,5 @@
 # What DreamerV3 Encodes About Small Objects in Pong
 
-**Steffi Roy** · Khoury College of Computer Sciences, Northeastern University
 
 Does a reconstruction-trained world model actually encode the small, task-critical objects a task depends on? Atari Pong is a sharp test: the paddles are large and high-variance, but the ball, which alone determines reward, covers under one pixel of the 64×64 frame.
 
